@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pregnancy Tracker</string>
+    <string name="headline">BABY</string>
+    <string name="daysTimeLabel">123</string>
+    <string name="daysLabel">Days</string>
+    <string name="hoursTimeLabel">01</string>
+    <string name="hoursLabel">Hours</string>
+    <string name="minutesTimeLabel">02</string>
+    <string name="minutesLabel">Minutes</string>
+    <string name="secondsTimeLabel">03</string>
+    <string name="secondsLabel">Seconds</string>
+    <string name="weeksTimeLabel">23</string>
+    <string name="weeksLabel">Weeks have passed.</string>
+    <string name="pregnancyButtonLabel">Pregnancy</string>
+    <string name="nauseaButtonLabel">Nausea</string>
+    <string name="settingsLabel">settings</string>
+</resources>
